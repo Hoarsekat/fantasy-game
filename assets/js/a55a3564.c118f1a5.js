@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[689],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/Hoarsekat/fantasy-game/blob/master","baseUrl":"/fantasy-game/","classOrder":[],"apiCategories":[]}')}}]);
